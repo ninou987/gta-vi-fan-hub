@@ -1,0 +1,6 @@
+{
+  "name": "GTA VI Fan Hub",
+  "description": "The ultimate interactive fan hub for Grand Theft Auto VI (GTA6), featuring real-time release countdowns, interactive character dossiers (Lucia & Jason), interactive speculated map of Leonida/Vice City, vehicles and weapons database, news timelines, and trailer breakdowns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
